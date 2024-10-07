@@ -1,0 +1,2 @@
+This repository contains the code, data, and documents related to the project "Vision-Language Models for Improving Autonomous Vehicle Hazardous Driving Scene Assessment". 
+The aim of this project is to enhance the detection and classification of hazardous driving scenarios by leveraging vision-language models. This repository is structured to support the development, testing, and documentation of the project.
