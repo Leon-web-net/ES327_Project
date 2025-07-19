@@ -99,8 +99,8 @@ The main goals of this project are:
 
 ## Documentation
 
- Full technical report available here:  
-**[2200211_ES327_TR.pdf](2200211_ES327_TR.pdf)**
+ Full technical report available in repository:  
+**2200211_ES327_TR.pdf**
 
 ---
 
